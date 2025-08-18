@@ -1,0 +1,22 @@
+uuid: dddae0f4-435d-4af0-a965-9d41ca644648
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - olivero
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: olivero_powered
+theme: olivero
+region: footer_top
+weight: -6
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: DevByBahman
+  label_display: visible
+  provider: system
+visibility: {  }
