@@ -1,0 +1,14 @@
+_core:
+  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+langcode: en
+uuid: abb4e9b7-67f0-4690-b9c7-51e1d2b5de82
+name: 'Amadeus Watch Company'
+mail: devbybahman@gmail.com
+slogan: 'Watches for Sophisticated Gentleman and Ladies'
+page:
+  403: ''
+  404: ''
+  front: /node/1
+admin_compact_mode: false
+weight_select_max: 100
+default_langcode: en
