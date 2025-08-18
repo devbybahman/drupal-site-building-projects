@@ -25,4 +25,12 @@ A simple Drupal-based website to showcase UI/UX practice.
 ### Contact us
 <img width="1910" height="2122" alt="contactus" src="https://github.com/user-attachments/assets/ff207210-67c8-47e4-a83a-2806e0ac648e" />
 
+## Configuration Export
+The `config/sync` folder contains the full Drupal configuration export for this project.  
+To use it on a fresh Drupal installation:
 
+1. Place the `config/sync` directory inside your project.  
+2. Set the correct path in `settings.php`:  
+   ```php
+   $settings['config_sync_directory'] = '../config/sync';
+3.Run: drush cim -y
