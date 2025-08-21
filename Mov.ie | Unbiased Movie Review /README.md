@@ -25,10 +25,10 @@ A Drupal-based project for movie reviews, built with custom content types, taxon
 - User Registration & Login  
 ## Screenshots
 ### Home 
-<img width="1910" height="5148" alt="HOME" src="https://github.com/user-attachments/assets/f3ad4c59-19ba-4e93-947d-00288214f2fc" />
+<img width="1910" height="8000" alt="HOME" src="https://github.com/user-attachments/assets/f3ad4c59-19ba-4e93-947d-00288214f2fc" />
 
 ### Single Post
-<img width="1910" height="5955" alt="SINGLEPOST" src="https://github.com/user-attachments/assets/6aaa0e01-c089-48df-8424-23cc61cabcb8" />
+<img width="1910" height="8000" alt="SINGLEPOST" src="https://github.com/user-attachments/assets/6aaa0e01-c089-48df-8424-23cc61cabcb8" />
 
 
 ### Tag OR Genre
